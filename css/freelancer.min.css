@@ -43,7 +43,7 @@ hr.star-light {
 }
 hr.star-light:after {
   color: #fff;
-  background-color: #185abc;
+  background-color: #00aeff;
 }
 hr.star-dark {
   border-color: #2c3e50;
@@ -84,7 +84,7 @@ section h2 {
 .scroll-to-top a {
   width: 3.5rem;
   height: 3.5rem;
-  background-color: rgba(33, 37, 41, 0.5);
+  background-color: rgba(79, 119, 158, 0.5);
   line-height: 3.1rem;
 }
 #mainNav {
@@ -104,14 +104,14 @@ section h2 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #bc18ae;
+  color: #00aeff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active,
 #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #39c1ca;
+  color: #00aeff;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -134,13 +134,13 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #39c1ca;
+    background: #00aeff;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active,
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus,
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #11567e;
+    background: #00aeff;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -188,7 +188,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 122, 188, 0.9);
+  background-color: rgba(35, 137, 255, 0.9);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -278,7 +278,7 @@ header.masthead h2 {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #39c1ca;
+  color: #00aeff;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef;
@@ -286,44 +286,44 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
-  color: #fff;
+  background-color: #000000;
+  color: rgb(255, 255, 255);
 }
 .copyright {
   background-color: #1a252f;
 }
 a {
-  color: #bc4c18;
+  color: #00aeff;
 }
 a:active,
 a:focus,
 a:hover {
-  color: #128f76;
+  color: #00aeff;
 }
 .btn {
   border-width: 2px;
 }
 .bg-primary {
-  background-color: #272636 !important;
+  background-color: #0b0338 !important;
 }
 .bg-secondary {
-  background-color: #2c3e50 !important;
+  background-color: #000000 !important;
 }
 .text-primary {
-  color: #39c1ca !important;
+  color: #00aeff !important;
 }
 .text-secondary {
   color: #2c3e50 !important;
 }
 .btn-primary {
-  background-color: #39c1ca;
-  border-color: #18bc9c;
+  background-color: #00aeff;
+  border-color: #00aeff;
 }
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-  background-color: #128f76;
-  border-color: #128f76;
+  background-color: #00aeff;
+  border-color: #00aeff;
 }
 .btn-secondary {
   background-color: #2c3e50;
